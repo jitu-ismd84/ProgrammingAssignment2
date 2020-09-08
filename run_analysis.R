@@ -1,3 +1,5 @@
+
+## Comment
 #*************************************************************************************************
 #############DATA DESCRIPTIONS#######
 #70% of the volunteers was selected for generating the training data and 30% the test data.
